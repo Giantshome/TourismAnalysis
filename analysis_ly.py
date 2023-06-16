@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Author : 李惠文
-# @Email : 2689022897@qq.com
-# @Time : 2020/9/19 10:37
+# @Author : LY
+# @Email : 
+# @Time : 
 
 from pylab import *
 
